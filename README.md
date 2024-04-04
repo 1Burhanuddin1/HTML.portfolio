@@ -1,2 +1,2 @@
 # HTML.portfolio
-This is from one of the coerces I am doing
+This is from one of the Courses I am doing
